@@ -29,8 +29,6 @@ Note: Can be safely transition to and from modified dll mid save.  Numbers in e-
 - Mars
 - Bit
 - Sebiga
+- 
 
------------------------------------------------------------------
-**ORIGINAL MOD**
-
-![alt_text](https://www.nexusmods.com/pcbuildingsimulator/mods/275)
+[**Original Mod**](https://www.nexusmods.com/pcbuildingsimulator/mods/275)
