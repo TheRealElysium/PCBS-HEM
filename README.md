@@ -11,3 +11,4 @@ Added storage mining rate to the system info app
 Added two sensors for EHM mined and power used
 Normalized output on system info to match real mining rat
 Added daily mining power consumption cost to e-mail
+ 
