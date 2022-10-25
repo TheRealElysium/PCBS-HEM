@@ -8,6 +8,7 @@
 - Fix for e-mail output inconsistency
 - Increased mining time ceiling by 10x
 - Decreased crypto value by 10x
+- Decreased electricity costs by 10x
 - **Added** subtle mining multiplier for CPUs with more than 64 cores
 - **Added** subtle mining multiplier for GPUs with more than 128GB VRAM
 - **Added** storage mining rate to the system info app
