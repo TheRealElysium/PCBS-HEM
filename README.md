@@ -16,6 +16,7 @@
 - Normalized output on system info to match real mining rate
 
 Note: Can be safely transition to and from modified dll mid save.  Numbers in e-mail will likely be off on the first day of switching.
+
 ---------------------------------------------------------------
 ![alt text](https://media.discordapp.net/attachments/871892316279951410/1034457997700775987/unknown.png?width=1383&height=683 "Sysinfo Preview")
 ----------------------------------------------------------------
