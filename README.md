@@ -1,22 +1,24 @@
 # PCBS-HEM
 #### Small fixes and personal changes for HEM-PCBS 1.15.3
+#####
+--------------------
+⋅ Fix for GPU Workstation mining multiplier
 
-Fix for GPU Workstation mining multiplier
+⋅ Fix for e-mail output inconsistency
 
-Fix for e-mail output inconsistency
+⋅ Increased mining time ceiling by 10x
 
-Increased mining time ceiling by 10x
+⋅ Decreased crypto value by 10x
 
-Decreased crypto value by 10x
+⋅ **Added** subtle mining multiplier for CPUs with more than 64 cores
 
-Added subtle mining multiplier for CPUs with more than 64 cores
+⋅ **Added** suble mining multiplier for GPUs with more than 128GB VRAM
 
-Added suble mining multiplier for GPUs with more than 128GB VRAM
+⋅ **Added** storage mining rate to the system info app
 
-Added storage mining rate to the system info app
+⋅ **Added** two sensors for EHM mined and power used
 
-Added two sensors for EHM mined and power used
+⋅ **Added** daily mining power consumption cost to e-mail
 
-Normalized output on system info to match real mining rat
+⋅ Normalized output on system info to match real mining rate
 
-Added daily mining power consumption cost to e-mail
