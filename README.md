@@ -12,6 +12,7 @@
 - **Added** subtle mining multiplier for CPUs with more than 64 cores
 - **Added** subtle mining multiplier for GPUs with more than 128GB VRAM
 - **Added** storage mining rate to the system info app
+- **Added** system mining efficiency to the system info app
 - **Added** two sensors for EHM mined and power used
 - **Added** daily mining power consumption cost to e-mail
 - Normalized output on system info to match real mining rate
